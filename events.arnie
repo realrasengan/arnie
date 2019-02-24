@@ -1,0 +1,5 @@
+PRIVMSG:arnie:#:privmsg $target what?
+PRIVMSG:arnie opme:#mirc:privmsg $target No
+MODE:+o arnie:#:privmsg $target Thanks $sender!
+MODE:+o *:#:privmsg $target congrats.
+
